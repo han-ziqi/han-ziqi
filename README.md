@@ -10,7 +10,7 @@ click this icon <a href="https://linkedin.com/in/ziqi-han0120" target="blank"><i
 
 👨‍💻My main area of study was **machine learning**. I learned **Machine Learning and BioInspired Optimisation**, **Multi-Agent Systems** and **Data Mining and Visualisation**. I finished **Deep Learning project** based on [openai gym](https://github.com/openai/gym) and **Reinforcement Learning project** relative Overgeneralization pathology during multi-agent reinforcement learning based on [pymarl](https://github.com/oxwhirl/pymarl) architecture. In addition, **Data mining** algorithms such as perceptron and K means.
 
-📚My BEng major is **Software Engineering** and I have studied **Basic computer knowledge** including **Data structures**，**Software Project Management**, **Computer Network**, **Object Oriented Programming** etc. **Frontend and Backend web development** including **The Basis of WebPage Design(HTML+CSS+DIV), Spring, Maven, JSP, query, Mybatis+JDBC** etc.
+📚My BEng major is **Software Engineering** and I have studied **Basic computer knowledge** including Data structures，Software Project Management, Computer Network, Object Oriented Programming etc. **Frontend and Backend web development** including The Basis of WebPage Design(HTML+CSS+DIV), Spring, Maven, JSP, query, Mybatis+JDBC etc.
 
 🌟 Outside the world of coding, my interests include **Early adopter** of digital technology products, and **Car nut** for automobiles
 
