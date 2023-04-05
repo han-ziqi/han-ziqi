@@ -6,7 +6,7 @@ click this icon <a href="https://linkedin.com/in/ziqi-han0120" target="blank"><i
 ## 🚀 About Me
 
 
-🎓I am Ziqi Han, a **Master’s degree** in **Advanced Computer Science ** major at University of Liverpool, graduated in Dec 2022. 
+🎓I am Ziqi Han, a **Master’s degree** in **Advanced Computer Science** major at University of Liverpool, graduated in Dec 2022. 
 
 👨‍💻My main area of study was **machine learning**. I learned **Machine Learning and BioInspired Optimisation**, **Multi-Agent Systems** and **Data Mining and Visualisation**. I finished **Deep Learning project** based on [openai gym](https://github.com/openai/gym) and **Reinforcement Learning project** relative Overgeneralization pathology during multi-agent reinforcement learning based on [pymarl](https://github.com/oxwhirl/pymarl) architecture. In addition, **Data mining** algorithms such as perceptron and K means.
 
