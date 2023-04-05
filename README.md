@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 
-----
 
 🎓I am Ziqi Han, a **Master’s degree** in **Advanced Computer Science ** major at University of Liverpool, graduated in Dec 2022. 
 
