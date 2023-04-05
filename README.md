@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ziqi Han
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mm2925&label=Profile%20views&color=0e75b6&style=flat" alt="mm2925" /> 
-Connect with me:<a href="https://linkedin.com/in/ziqi-han0120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziqi-han0120" height="30" width="40" /></a> click this icon to open my Linkedin page</p>
+Connect with me:  <a href="https://linkedin.com/in/ziqi-han0120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziqi-han0120" height="30" width="40" /></a> click this icon to open my Linkedin page</p>
 
 ## 🚀 About Me
 
