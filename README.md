@@ -1,6 +1,6 @@
 # Hi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mm2925&label=Profile%20views&color=0e75b6&style=flat" alt="mm2925" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mm2925&label=Profile%20views&color=0e75b6&style=flat" alt="han-ziqi" /> 
 click this icon <a href="https://linkedin.com/in/ziqi-han0120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziqi-han0120" height="30" width="40" /></a> Connect with me in Linkedin</p>
 
 ## 🚀 About Me
@@ -54,9 +54,9 @@ click this icon <a href="https://linkedin.com/in/ziqi-han0120" target="blank"><i
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mm2925&show_icons=true&locale=en&layout=compact" alt="han-ziqi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mm2925&show_icons=true&locale=en&layout=compact" alt="han-ziqi"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mm2925&show_icons=true&locale=en" alt="han-ziqi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mm2925&show_icons=true&locale=en" alt="han-ziqi"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mm2925&" alt="han-ziqi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mm2925&" alt="han-ziqi"/></p>
 
