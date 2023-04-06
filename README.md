@@ -54,9 +54,9 @@ click this icon <a href="https://linkedin.com/in/ziqi-han0120" target="blank"><i
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mm2925&show_icons=true&locale=en&layout=compact" alt="han-ziqi"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=han-ziqi&show_icons=true&locale=en&layout=compact" alt="han-ziqi"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mm2925&show_icons=true&locale=en" alt="han-ziqi"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=han-ziqi&show_icons=true&locale=en" alt="han-ziqi"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mm2925&" alt="han-ziqi"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=han-ziqi&" alt="han-ziqi"/></p>
 
